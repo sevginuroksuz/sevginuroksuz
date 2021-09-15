@@ -9,7 +9,7 @@
 ## Connect with me:
 
 
-<a href=""><img align="left" alt="instagram" width="28px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/78-instagram-512.png" /></a>
+<a href="https://www.instagram.com/sevginuroksz"><img align="left" alt="instagram" width="28px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/78-instagram-512.png" /></a>
 
 <a href=""><img align="left"  alt="twitter" width="28px" src ="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" /></a>
 
