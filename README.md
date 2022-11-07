@@ -9,7 +9,7 @@
 
 <a href="https://www.instagram.com/sevginuroksz"><img align="left" alt="instagram" width="28px" src="https://user-images.githubusercontent.com/90787721/200420533-f7b8ffb6-1cf3-47ea-a512-e55f5f27f604.png" /></a>
 
-<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219"><img align="left"  alt="twitter" width="28px" src ="https://user-images.githubusercontent.com/90787721/200420847-a6b6635a-a4f1-409e-9043-ee3281ee4526.png"/></a>
+<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219"><img align="left"  alt="twitter" width="28px" src ="https://user-images.githubusercontent.com/90787721/200421378-d622d9b4-5ab6-457e-85c2-d677b635b9c7.png"/></a>
 
 <a href="https://medium.com/@sevginuroksuz"><img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/></a>
 <br/>
