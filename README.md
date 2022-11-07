@@ -15,4 +15,5 @@
 <br/>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevginuroksuz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
