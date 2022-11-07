@@ -13,5 +13,4 @@
 
 <a href="https://medium.com/@sevginuroksuz"><img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/></a>
 
-
-
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
