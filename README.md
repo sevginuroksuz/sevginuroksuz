@@ -7,7 +7,7 @@
 ## Connect with me:
 
 
-<a href="https://www.instagram.com/sevginuroksz"><img align="left" alt="instagram" width="28px" src="[https://cdn3.iconfinder.com/data/icons/picons-social/57/78-instagram-512.png](https://pngtree.com/freepng/instagram-logo-with-name-png_4842574.html)" /></a>
+<a href="https://www.instagram.com/sevginuroksz"><img align="left" alt="instagram" width="28px" src="https://user-images.githubusercontent.com/90787721/200420533-f7b8ffb6-1cf3-47ea-a512-e55f5f27f604.png" /></a>
 
 <a href="https://twitter.com/sevginuroksz"><img align="left"  alt="twitter" width="28px" src ="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" /></a>
 
