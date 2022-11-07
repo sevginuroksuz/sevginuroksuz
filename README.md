@@ -15,6 +15,6 @@
 <br/>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave&card_width=1000)
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevginuroksuz&langs_count=8&theme=synthwave&card_width=500&card_height=100)](https://github.com/sevginuroksuz/github-readme-stats)
+
 
 
