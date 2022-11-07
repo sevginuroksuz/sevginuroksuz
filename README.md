@@ -14,7 +14,7 @@
 <a href="https://medium.com/@sevginuroksuz"><img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/></a>
 <br/>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave&card_width=1000&card_height=700)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave&card_width=1000&card_height=1000)
 
 
 
