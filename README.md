@@ -17,4 +17,4 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave&card_height=100&card_width=500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevginuroksuz&langs_count=8&theme=synthwave&card_width=500&card_height=100)](https://github.com/sevginuroksuz/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&theme=dark&show_icons=true)
+
