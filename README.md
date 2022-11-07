@@ -12,10 +12,10 @@
 <a href="https://twitter.com/sevginuroksz"><img align="left"  alt="twitter" width="28px" src ="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" /></a>
 
 <a href="https://medium.com/@sevginuroksuz"><img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/></a>
-
+<br/>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevginuroksuz&langs_count=8&theme=synthwave&card_width=500)](https://github.com/sevginuroksuz/github-readme-stats)
-<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&theme=dark&show_icons=true)
