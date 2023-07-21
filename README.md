@@ -15,13 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 - Feel free to contact me about the problems. I will try to help as much as I can 🤞
+<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sevginuroksuz" height="30" width="40" /></a>
+<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sevginuroksuz" height="30" width="40" /></a>
+<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sevginuroksuz" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.instagram.com/sevginuroksz"><img align="left" alt="instagram" width="28px" src="https://user-images.githubusercontent.com/90787721/200420533-f7b8ffb6-1cf3-47ea-a512-e55f5f27f604.png" /></a>
-
-<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219"><img align="left"  alt="twitter" width="28px" src ="https://user-images.githubusercontent.com/90787721/200421378-d622d9b4-5ab6-457e-85c2-d677b635b9c7.png"/></a>
-
-<a href="https://medium.com/@sevginuroksuz"><img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/></a>
-<br/>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave&card_width=1000&card_height=1000)
 
