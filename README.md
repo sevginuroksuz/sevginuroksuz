@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevginuroksuz" alt="sevginuroksuz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/koalafied_dev" target="blank"><img src="https://img.shields.io/twitter/follow/koalafied_dev?logo=twitter&style=for-the-badge" alt="sevginuroksuz" /></a> </p>
+ </p>
 
 - 🌱 I’m currently learning **Java Spring and C#**
 
