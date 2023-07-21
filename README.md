@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Spring and C#**
 
-- 📫 How to reach me **sevginuroksuz@gmail.com*
+- 📫 How to reach me **sevginuroksuz@gmail.com**
 
 - ⚡ Fun fact, **things aren’t always #000000 and #FFFFFF**
 
