@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevginuroksuz" alt="sevginuroksuz" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevginuroksuz" alt="sevginuroksuz" /></a>
 
 
 - 🌱 I’m currently learning **Java Spring and C#**
@@ -18,9 +18,6 @@
 <a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sevginuroksuz" height="30" width="40" /></a>
 <a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sevginuroksuz" height="30" width="40" /></a>
 </p>
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=sevginuroksuz&show_icons=true&theme=synthwave&card_width=1000&card_height=1000)
 
 
 <h3 align="left">Languages and Tools:</h3>
