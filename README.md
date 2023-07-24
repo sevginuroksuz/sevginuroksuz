@@ -14,9 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 - Feel free to contact me about the problems. I will try to help as much as I can 🤞
 <p align="left">
-<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="![image](https://github.com/sevginuroksuz/sevginuroksuz/assets/90787721/59360395-2228-462a-83df-285aa1fbcaa4)
-" alt="sevginuroksuz" height="30" width="40" /></a>
-<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="![image](https://github.com/sevginuroksuz/sevginuroksuz/assets/90787721/2f8efbd8-f294-4031-99dc-9238f57b19fb)" alt="sevginuroksuz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" version="1.1" viewBox="0 0 512 512" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M256,0c141.29,0 256,114.71 256,256c0,141.29 -114.71,256 -256,256c-141.29,0 -256,-114.71 -256,-256c0,-141.29 114.71,-256 256,-256Zm-80.037,399.871l0,-199.921l-66.464,0l0,199.921l66.464,0Zm239.62,0l0,-114.646c0,-61.409 -32.787,-89.976 -76.509,-89.976c-35.255,0 -51.047,19.389 -59.889,33.007l0,-28.306l-66.447,0c0.881,18.757 0,199.921 0,199.921l66.446,0l0,-111.65c0,-5.976 0.43,-11.95 2.191,-16.221c4.795,-11.935 15.737,-24.299 34.095,-24.299c24.034,0 33.663,18.34 33.663,45.204l0,106.966l66.45,0Zm-272.403,-296.321c-22.74,0 -37.597,14.95 -37.597,34.545c0,19.182 14.405,34.544 36.717,34.544l0.429,0c23.175,0 37.6,-15.362 37.6,-34.544c-0.43,-19.595 -14.424,-34.545 -37.149,-34.545Z"/></svg>" alt="sevginuroksuz" height="30" width="40" /></a>
+<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="" alt="sevginuroksuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
