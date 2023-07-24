@@ -14,10 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 - Feel free to contact me about the problems. I will try to help as much as I can 🤞
 <p align="left">
-<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="![image](https://github.com/sevginuroksuz/sevginuroksuz/assets/90787721/0abe9f76-9e41-4490-b2c5-ae509d1d0897)
+<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="![image](https://github.com/sevginuroksuz/sevginuroksuz/assets/90787721/59360395-2228-462a-83df-285aa1fbcaa4)
 " alt="sevginuroksuz" height="30" width="40" /></a>
-<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="![image](https://github.com/sevginuroksuz/sevginuroksuz/assets/90787721/2f8efbd8-f294-4031-99dc-9238f57b19fb)
-" alt="sevginuroksuz" height="30" width="40" /></a>
+<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="![image](https://github.com/sevginuroksuz/sevginuroksuz/assets/90787721/2f8efbd8-f294-4031-99dc-9238f57b19fb)" alt="sevginuroksuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
