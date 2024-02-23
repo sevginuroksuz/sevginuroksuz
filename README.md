@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sevginuroksuz" height="30" width="40" /></a>
- <a href="https://x.com/sevginuroksz?t=g6kcbQa4nXXnbpA4kZqWHQ&s=09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/225px-X_icon.svg.png?20230813175046" alt="sevginuroksuz" height="30" width="40" /></a>
+ <a href="https://x.com/sevginuroksz?t=g6kcbQa4nXXnbpA4kZqWHQ&s=09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/225px-X_icon.svg.png?20230813175046" alt="sevginuroksuz" height="40" width="40" /></a>
 <a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sevginuroksuz" height="30" width="40" /></a>
 </p>
  Feel free to contact me about the problems. I will try to help as much as I can 🤞
