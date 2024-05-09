@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="sevginuroksuz" height="30" width="30" /></a>
- <a href="https://x.com/sevginuroksz?t=g6kcbQa4nXXnbpA4kZqWHQ&s=09" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/225px-X_icon.svg.png?20230813175046](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png)" alt="sevginuroksuz" height="30" width="30" /></a>
-<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/1196px-Medium_%28website%29_logo.svg.png" alt="sevginuroksuz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219" target="blank"><img align="center" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg" alt="sevginuroksuz" height="30" width="30" /></a>
+ <a href="https://x.com/sevginuroksz?t=g6kcbQa4nXXnbpA4kZqWHQ&s=09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/450px-X_logo_2023.svg.png" alt="sevginuroksuz" height="30" width="30" /></a>
+<a href="https://medium.com/@sevginuroksuz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/1196px-Medium_%28website%29_logo.svg.png" alt="sevginuroksuz" height="30" width="140" /></a>
 </p>
  
 
