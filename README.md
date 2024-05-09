@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sevgi</h1>
 <h3 align="center">An always-learner computer engineer student from Turkey</h3>
 <h3 align="center"><img src="https://w0.peakpx.com/wallpaper/381/103/HD-wallpaper-anime-sad-girl-developer.jpg"></h3>
-
+<p> <img src="https://komarev.com/ghpvc/?username=sevginuroksuz&label=Profile%20views&color=orange&style=for-the-badge" alt="sevginuroksuz" /> </p>
 - 🌱 I’m currently learning **Nodejs, Javascript and Docker**
 
 - 📫 How to reach me **sevginuroksuz@gmail.com**
