@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sevgi</h1>
 <h3 align="center">An always-learner computer engineer student from Turkey</h3>
-
+<p align="left"> <img src="https://c4.wallpaperflare.com/wallpaper/227/991/786/nebula-galaxy-universe-space-wallpaper-preview.jpg" alt="orion nebula" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevginuroksuz&label=Profile%20views&color=0e75b6&style=flat" alt="sevginuroksuz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevginuroksuz" alt="sevginuroksuz" /></a> </p>
