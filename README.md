@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sevgi</h1>
 <h3 align="center">An always-learner computer engineer student from Turkey</h3>
-
+<h3 align="center"><img src="https://w0.peakpx.com/wallpaper/381/103/HD-wallpaper-anime-sad-girl-developer.jpg"></h3>
 
 - 🌱 I’m currently learning **Nodejs, Javascript and Docker**
 
