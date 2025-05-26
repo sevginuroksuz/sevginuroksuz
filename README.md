@@ -4,7 +4,7 @@
   <img src="./assets/giphy_transparent.gif" alt="Transparent Coding Animation" width="200" />
 </p>
 
-> **Computer Engineering Student**\*\* | Full-Stack Dev | Cybersecurity Enthusiast | Cloud Explorer
+> **Computer Engineering Student** | Full-Stack Dev | Cybersecurity Enthusiast | Cloud Explorer
 
 ---
 
