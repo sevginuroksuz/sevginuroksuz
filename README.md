@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me -`♡´-
 
 Merhaba! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technical University**. I'm passionate about building scalable web applications, exploring cybersecurity techniques, and architecting on the cloud. I love sharing tutorials, translating song lyrics, and creating content that helps others learn.
 
@@ -20,8 +20,6 @@ Merhaba! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Tec
 * **DevOps:** Docker, GitHub Actions, AWS (EC2, S3, Lambda)
 * **Security:** Nmap, Wireshark, Burp Suite, JWT
 
----
-
 ## 📌 Pinned Projects
 
 | Repository                                                                                | Description                                                  |
@@ -30,24 +28,16 @@ Merhaba! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Tec
 | [dockerized-nodejs-app](https://github.com/sevginuroksuz/dockerized-nodejs-app)           | Demo of Dockerizing a Node.js app for production deployments |
 | [zenity-inventory-system](https://github.com/sevginuroksuz/zenity-inventory-system)       | Bash inventory manager with Zenity GUI on Linux              |
 
----
-
-## 📫 Connect with Me
+## Connect with Me 🤝🏻
 
 * ✉️ Email: [sevginuroksuz@gmail.com](mailto:sevginuroksuz@gmail.com)
 * 🌐 Website: Coming soon (I’m working on it!) ;)
 * 🐦 X: [@sevginuroksz](https://x.com/sevginuroksz)
 
----
-
-## 📖 Latest Writing
+## Latest Writing 👩🏻‍💻
 
 * [How to Containerize Your Node.js App with Docker](https://medium.com/@sevginuroksuz/docker-nodejs-containerization)
 * [Cybersecurity 101: Passive Reconnaissance with Nmap](https://medium.com/@sevginuroksuz/nmap-passive-info)
-
----
-
-> "Don’t waste your time chasing butterflies. Tend your garden, and the butterflies will come!" 🦋
 
 ---
 
