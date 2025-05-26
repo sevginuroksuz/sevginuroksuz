@@ -10,7 +10,7 @@
 
 ## About Me -`♡´-
 
-Merhaba! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technical University**. I'm passionate about building scalable web applications, exploring cybersecurity techniques, and architecting on the cloud. I love sharing tutorials, translating song lyrics, and creating content that helps others learn.
+Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technical University**. I'm passionate about building scalable web applications, exploring cybersecurity techniques, and architecting on the cloud. I love sharing tutorials, translating song lyrics, and creating content that helps others learn.
 
 ## 🛠️ Tech Stack
 
