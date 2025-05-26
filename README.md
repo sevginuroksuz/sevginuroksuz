@@ -19,6 +19,7 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 * **Database:** MongoDB, PostgreSQL, SQL Server
 * **DevOps:** Docker, GitHub Actions, AWS (EC2, S3, Lambda)
 * **Security:** Nmap, Wireshark, Burp Suite, JWT
+* **Analytics:** Power BI
 
 ## 📌 Pinned Projects
 
