@@ -1,20 +1,10 @@
 # 🦋 Sevgi Nur Öksüz
 
 <p align="center">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <lottie-player
-    src="https://assets8.lottiefiles.com/packages/lf20_47pyyfcg.json"
-    background="transparent"
-    speed="1"
-    style="width: 200px; height: 200px;"
-    loop
-    autoplay>
-  </lottie-player>
+  <img src="./assets/giphy_transparent.gif" alt="Transparent Coding Animation" width="200" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sevgi_Nur-blue?logo=linkedin)](https://www.linkedin.com/in/sevgi-nur-oksuz-8b91a5219) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@sevginuroksuz) [![Medium](https://img.shields.io/badge/Medium-Read-000000?logo=medium)](https://medium.com/@sevginuroksuz) [![Profile Views](https://komarev.com/ghpvc/?username=sevginuroksuz)](https://komarev.com/ghpvc/?username=sevginuroksuz)
-
-> **Computer Engineering Student** | Full-Stack Dev | Cybersecurity Enthusiast | Cloud Explorer
+> **Computer Engineering Student**\*\* | Full-Stack Dev | Cybersecurity Enthusiast | Cloud Explorer
 
 ---
 
