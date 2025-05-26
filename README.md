@@ -35,7 +35,7 @@ Merhaba! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Tec
 ## 📫 Connect with Me
 
 * ✉️ Email: [sevginuroksuz@gmail.com](mailto:sevginuroksuz@gmail.com)
-* 🌐 Website: [sevginuroksuz.dev](https://sevginuroksuz.dev)
+* 🌐 Website: Coming soon (I’m working on it!) ;)
 * 🐦 X: [@sevginuroksz](https://x.com/sevginuroksz)
 
 ---
@@ -47,7 +47,7 @@ Merhaba! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Tec
 
 ---
 
-> "Kelebekleri kovalayarak vaktinizi boşa harcamayın. Bahçenizi düzeltin, kelebekler gelecektir!" 🦋
+> "Don’t waste your time chasing butterflies. Tend your garden, and the butterflies will come!" 🦋
 
 ---
 
