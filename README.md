@@ -1,7 +1,7 @@
 # 🦋 Sevgi Nur Öksüz
 
 <p align="center">
-  <img src="./assets/giphy_transparent.gif" alt="Transparent Coding Animation" width="200" />
+  <img src="./assets/giphy_transparent.gif" alt="Transparent Coding Animation" width="300" />
 </p>
 
 > **Computer Engineering Student** | Full-Stack Dev | Cybersecurity Enthusiast | Cloud Explorer
