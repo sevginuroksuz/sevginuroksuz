@@ -38,7 +38,7 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 ## Latest Writing 👩🏻‍💻
 
 * [How to Containerize Your Node.js App with Docker](https://medium.com/@sevginuroksuz/how-to-containerize-your-node-js-app-with-docker-a13647513524)
-* [Cybersecurity 101: Passive Reconnaissance with Nmap](https://medium.com/@sevginuroksuz/nmap-passive-info)
+* [Cybersecurity 101: Passive Reconnaissance with Nmap](https://medium.com/@sevginuroksuz/cybersecurity-101-passive-reconnaissance-with-nmap-502233ed1e6e)
 
 ---
 
