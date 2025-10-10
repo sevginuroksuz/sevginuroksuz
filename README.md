@@ -25,6 +25,7 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 
 | Repository                                                                                | Description                                                  |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [focusgarden](https://github.com/sevginuroksuz/focusgarden) | React Native app turning focus time into a blooming garden.   |
 | [cs-bursatechinaluniversity](https://github.com/sevginuroksuz/cs-bursatechinaluniversity) | University course notes in C, organized for quick review     |
 | [dockerized-nodejs-app](https://github.com/sevginuroksuz/dockerized-nodejs-app)           | Demo of Dockerizing a Node.js app for production deployments |
 | [zenity-inventory-system](https://github.com/sevginuroksuz/zenity-inventory-system)       | Bash inventory manager with Zenity GUI on Linux              |
