@@ -14,7 +14,7 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, React Native, Angular
+* **Frontend:** React, React Native, Angular, Flutter
 * **Backend:** Node.js, Express, C# (.NET)
 * **Database:** MongoDB, PostgreSQL, SQL Server
 * **DevOps:** Docker, GitHub Actions, AWS (EC2, S3, Lambda)
