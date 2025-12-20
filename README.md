@@ -1,5 +1,3 @@
-# 🦋 Sevgi Nur Öksüz
-
 <p align="center">
   <img src="./assets/giphy_transparent.gif" alt="Transparent Coding Animation" width="300" />
 </p>
