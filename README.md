@@ -31,7 +31,7 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 ## Connect with Me 🤝🏻
 
 * ✉️ Email: [sevginuroksuz@gmail.com](mailto:sevginuroksuz@gmail.com)
-* 🌐 Website: Coming soon (I’m working on it!) ;)
+* 🌐 Website: https://sevginuroksuz.github.io/
 * 🐦 X: [@sevginuroksz](https://x.com/sevginuroksz)
 
 ## Latest Writing 👩🏻‍💻
