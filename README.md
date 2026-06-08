@@ -17,7 +17,6 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 * **Database:** MongoDB, PostgreSQL, SQL Server
 * **DevOps:** Docker, GitHub Actions, AWS (EC2, S3, Lambda)
 * **Security:** Nmap, Wireshark, Burp Suite, JWT
-* **Analytics:** Power BI
 
 ## 📌 Pinned Projects
 
@@ -32,7 +31,6 @@ Hi! 👋 I'm **Sevgi Nur**, a Computer Engineering undergrad at **Bursa Technica
 
 * ✉️ Email: [sevginuroksuz@gmail.com](mailto:sevginuroksuz@gmail.com)
 * 🌐 Website: https://sevginuroksuz.github.io/
-* 🐦 X: [@sevginuroksz](https://x.com/sevginuroksz)
 
 ## Latest Writing 👩🏻‍💻
 * [Rendering In Angular](https://medium.com/@sevginuroksuz/rendering-in-angular-c753594b25e4)
